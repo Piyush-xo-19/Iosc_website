@@ -1,9 +1,9 @@
 import React from 'react'
 
-function Alumini() {
+function Alumni() {
   return (
-    <div>Alumini</div>
+    <div>Alumni</div>
   )
 }
 
-export default Alumini
+export default Alumni
